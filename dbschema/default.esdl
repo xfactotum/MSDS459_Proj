@@ -5,13 +5,12 @@ module default {
     ext::pgvector::vector<1536>;
 
     type Breed {
-        required property name -> str {
+        required property name -> str { #api extraction
             constraint exclusive
         };
-        property height -> str; #akc extraction
-        property weight -> str; #akc extraction
-        property life_expectancy -> str; #akc extraction
-        property breed_group -> str; #akc extraction
+        property height -> str; #api extraction
+        property weight -> str; #api extraction
+        property life_expectancy -> str; #api extraction
         property good_with_children -> int32; #api extraction
         property good_with_other_dogs -> int32; #api extraction
         property shedding -> int32; #api extraction
@@ -31,8 +30,9 @@ module default {
     };
 
     type Groups {
-        required property group_name -> str;
-        property description -> str; #akc website - manually create records?
+        required property group_name -> str; #akc extraction
+        property group_description -> str; #akc extraction
+        property breeds_list -> array<str>; #akc extraction
         link BreedGroup -> Breed {
             property breed_group ->str;
         };
@@ -40,17 +40,19 @@ module default {
 
     type Reviews {
         required property name -> str;
-        property review -> str;
+        property review -> str; #reviews extraction
         link BreedReview -> Breed;
         required embedding: TxEmbedding;
     }
 
     type Location {
         required property name -> str;
-        property City -> str;
-        property State -> str;
-        property Country -> str;
-        link BreedFrom -> Breed;
+        property City -> str; #dogtime extraction
+        property State -> str; #dogtime extraction
+        property Country -> str; #dogtime extraction
+        link BreedFrom -> Breed {
+            property origin -> str;
+        };
     }
 
     type Images {
