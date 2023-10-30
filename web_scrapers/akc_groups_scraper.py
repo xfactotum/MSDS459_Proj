@@ -17,7 +17,8 @@ def scrape_akc_data(group_names):
 
         # Fetch dog breeds
         dog_breeds = []
-        for page_num in range(1, 4):
+        page_num = 1
+        while True:
             url = f"https://www.akc.org/dog-breeds/{group_name}/page/{page_num}/" if page_num > 1 else f"https://www.akc.org/dog-breeds/{group_name}/"
             response = requests.get(url)
 
@@ -28,23 +29,25 @@ def scrape_akc_data(group_names):
                     break  # No more breeds on the page
 
                 dog_breeds.extend([breed.text.strip() for breed in breed_tiles])
+                page_num += 1
             elif response.status_code == 404:
                 print(f"Page not found: {url}")
+                break
             else:
                 print(f"Failed to retrieve the web page ({url}). Status code: {response.status_code}")
                 break
 
         # Create a dictionary for this group
         group_data = {
-            "page_header_title": f"{group_name.capitalize()} Group",
-            "description": description,
-            "dog_breeds": dog_breeds
+            "group_name": f"{group_name.capitalize()} Group",
+            "group_description": description,
+            "breeds_list": dog_breeds
         }
 
         all_data.append(group_data)
 
     # Save the combined data to a JSON file
-    with open("akc_breed_groups.json", "w") as json_file:
+    with open("akc_groups.json", "w") as json_file:
         json.dump(all_data, json_file, indent=4)
         
 # List of various group names on akc website:
