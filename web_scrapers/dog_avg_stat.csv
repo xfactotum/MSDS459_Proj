@@ -1,0 +1,248 @@
+dog_breed,avg_life_expectancy,avg_height,avg_weight
+Affenpinscher,13.5,10.25,8.5
+Afghan Hound,15.0,26.0,55.0
+Airedale Terrier,12.5,23.0,60.0
+Akita,12.0,27.0,100.0
+Alaskan Klee Kai,14.5,27.0,100.0
+Alaskan Malamute,12.0,25.0,80.0
+American Bulldog,11.0,23.0,78.75
+American English Coonhound,11.5,25.0,55.0
+American Eskimo Dog,14.0,25.0,55.0
+American Foxhound,12.0,23.5,65.0
+American Hairless Terrier,15.0,14.0,14.0
+American Staffordshire Terrier,14.0,18.5,55.0
+American Water Spaniel,12.0,16.5,35.0
+Anatolian Shepherd Dog,12.0,29.0,115.0
+Appenzeller Sennenhund,13.5,20.5,59.0
+Australian Cattle Dog,14.0,19.0,42.5
+Australian Kelpie,11.5,18.5,42.5
+Australian Shepherd,13.5,21.5,52.5
+Australian Terrier,13.0,10.5,17.5
+Azawakh,13.5,27.0,44.0
+Barbado da Terceira,13.0,21.25,54.5
+Barbet,13.0,21.75,50.0
+Basenji,13.5,17.0,23.0
+Basset Fauve de Bretagne,12.0,14.0,31.0
+Basset Hound,12.5,13.0,52.5
+Beagle,12.5,14.5,21.25
+Bearded Collie,13.0,21.5,50.0
+Beauceron,11.0,26.5,90.0
+Bedlington Terrier,13.5,16.25,20.0
+Berger Picard,12.5,24.5,60.0
+Bernese Mountain Dog,8.5,26.25,90.0
+Black Russian Terrier,11.0,28.5,105.0
+Black and Tan Coonhound,11.0,26.0,87.5
+Bloodhound,11.0,26.0,95.0
+Bluetick Coonhound,11.5,24.5,61.25
+Boerboel,10.0,25.5,175.0
+Bohemian Shepherd,13.5,21.1,47.75
+Bolognese,13.0,11.0,7.25
+Border Collie,13.5,20.5,42.5
+Border Terrier,13.5,13.5,13.5
+Borzoi,11.5,30.25,81.25
+Boston Terrier,12.0,16.0,18.5
+Bouvier des Flandres,11.0,26.0,90.0
+Boxer,11.0,24.0,65.0
+Boykin Spaniel,12.5,16.75,32.5
+Bracco Italiano,12.0,24.0,72.5
+Braque Francais Pyrenean,13.5,20.75,47.5
+Braque du Bourbonnais,11.0,20.75,44.0
+Briard,12.0,25.0,77.5
+Brittany,13.0,19.0,35.0
+Broholmer,9.0,28.5,120.0
+Brussels Griffon,13.5,8.5,9.0
+Bull Terrier,12.5,21.5,60.0
+Bulldog,9.0,14.5,45.0
+Bullmastiff,8.0,26.0,115.0
+Cairn Terrier,14.0,10.0,13.5
+Canaan Dog,13.5,22.0,45.0
+Cane Corso,10.5,26.25,99.0
+Carolina Dog,13.5,18.625,42.5
+Caucasian Shepherd Dog,11.0,26.5,134.5
+Cavalier King Charles Spaniel,13.5,12.5,15.5
+Central Asian Shepherd Dog,13.5,27.0,127.0
+Cesky Terrier,13.5,11.5,19.0
+Chesapeake Bay Retriever,11.5,24.5,67.5
+Chihuahua,15.0,6.5,5.0
+Chinook,13.5,25.0,65.0
+Chow Chow,10.0,18.5,57.5
+Clumber Spaniel,11.0,19.0,70.0
+Coton de Tulear,17.0,10.5,11.25
+Croatian Sheepdog,13.5,18.0,36.5
+Curly-Coated Retriever,11.0,26.0,77.5
+Dachshund,14.0,8.5,24.0
+Dalmatian,12.0,21.5,57.5
+Dandie Dinmont Terrier,13.5,9.5,21.0
+Danish-Swedish Farmdog,12.0,13.5,17.5
+Doberman Pinscher,11.0,27.0,81.25
+Dogo Argentino,12.0,25.5,90.0
+Dogue de Bordeaux,6.5,23.27,130.0
+Drever,15.0,13.5,37.5
+Dutch Shepherd,12.5,23.0,58.5
+English Cocker Spaniel,13.0,16.5,30.0
+English Foxhound,11.5,24.0,67.5
+English Setter,12.0,26.0,61.25
+English Springer Spaniel,13.0,20.0,45.0
+Entlebucher Mountain Dog,12.0,19.0,52.5
+Estrela Mountain Dog,12.0,26.75,104.5
+Eurasier,14.0,21.5,55.0
+Field Spaniel,12.5,18.0,42.5
+Finnish Lapphund,13.5,19.5,43.0
+Finnish Spitz,14.0,18.75,26.5
+Flat-Coated Retriever,9.0,23.75,65.0
+French Bulldog,11.0,12.0,23.0
+French Spaniel,11.0,22.75,55.0
+German Longhaired Pointer,13.0,25.0,67.5
+German Pinscher,13.0,18.5,35.0
+German Shepherd Dog,8.5,25.0,68.75
+German Shorthaired Pointer,11.0,24.0,57.5
+German Spitz,14.0,13.5,25.0
+German Wirehaired Pointer,15.0,25.0,60.0
+Giant Schnauzer,13.5,26.5,68.75
+Glen of Imaal Terrier,12.5,13.25,36.0
+Golden Retriever,11.0,23.5,65.0
+Gordon Setter,12.5,25.5,62.5
+Grand Basset Griffon Vendéen,14.0,16.75,42.5
+Great Dane,8.5,31.0,141.25
+Great Pyrenees,11.0,29.5,100.0
+Greater Swiss Mountain Dog,9.5,27.0,112.5
+Greyhound,11.5,29.0,65.0
+Harrier,13.5,20.0,52.5
+Havanese,15.0,10.0,10.0
+Hokkaido,13.5,19.0,55.0
+Hovawart,12.0,25.5,77.5
+Ibizan Hound,12.5,25.5,47.5
+Icelandic Sheepdog,13.0,18.0,27.5
+Irish Red And White Setter,13.0,25.25,46.75
+Irish Setter,13.5,27.0,65.0
+Irish Terrier,14.0,18.0,26.0
+Irish Water Spaniel,12.5,23.0,56.5
+Irish Wolfhound,7.0,33.0,112.5
+Italian Greyhound,14.5,14.0,10.5
+Jagdterrier,11.0,14.5,19.5
+Japanese Akitainu,13.5,26.25,65.0
+Japanese Chin,11.0,9.5,9.0
+Japanese Spitz,13.0,13.5,17.5
+Japanese Terrier,13.5,12.0,7.5
+Jindo,14.0,20.0,40.0
+Kai Ken,13.5,17.5,30.0
+Karelian Bear Dog,12.0,21.25,46.5
+Keeshond,13.5,18.0,40.0
+Kerry Blue Terrier,13.5,18.75,36.5
+Kishu Ken,13.5,19.5,45.0
+Komondor,11.0,27.5,109.5
+Kuvasz,11.0,29.0,93.75
+Labrador Retriever,11.0,23.5,67.5
+Lagotto Romagnolo,16.0,18.0,29.625
+Lakeland Terrier,13.5,14.75,16.5
+Lancashire Heeler,13.5,11.0,13.0
+Lapponian Herder,12.0,19.0,70.0
+Leonberger,7.0,29.75,127.5
+Lhasa Apso,13.5,10.5,15.0
+Löwchen,14.0,13.0,15.0
+Maltese,13.5,8.0,7.7
+Manchester Terrier (Standard),16.0,15.5,17.0
+Manchester Terrier (Toy),16.0,11.0,10.0
+Miniature American Shepherd,12.5,16.0,30.0
+Miniature Bull Terrier,12.0,12.0,23.0
+Miniature Pinscher,14.0,11.25,9.0
+Miniature Schnauzer,13.5,13.0,15.5
+Mountain Cur,11.5,21.0,45.0
+Mudi,13.0,16.75,23.5
+Neapolitan Mastiff,8.0,28.5,130.0
+Nederlandse Kooikerhondje,13.5,25.5,25.0
+Newfoundland,9.5,28.0,125.0
+Norfolk Terrier,14.0,9.5,11.5
+Norrbottenspets,15.5,17.25,25.0
+Norwegian Buhund,13.5,17.75,33.0
+Norwegian Elkhound,13.5,20.5,51.5
+Norwegian Lundehund,13.5,14.0,25.0
+Norwich Terrier,13.5,10.0,12.0
+Nova Scotia Duck Tolling Retriever,13.0,19.5,42.5
+Old English Sheepdog,11.0,22.0,80.0
+Otterhound,11.5,27.0,97.5
+Papillon,15.0,9.5,7.5
+Parson Russell Terrier,14.0,14.0,15.0
+Pekingese,13.0,7.5,10.5
+Perro de Presa Canario,10.0,24.0,97.0
+Peruvian Inca Orchid,13.0,23.0,40.5
+Petit Basset Griffon Vendéen,15.0,14.0,32.5
+Pharaoh Hound,13.0,24.0,50.0
+Plott Hound,13.0,22.5,51.25
+Polish Lowland Sheepdog,13.0,19.0,40.0
+Pomeranian,14.0,6.5,5.0
+Poodle (Miniature),14.0,12.5,12.5
+Poodle (Standard),14.0,16.0,55.0
+Poodle (Toy),14.0,9.0,5.0
+Porcelaine,12.5,22.5,58.5
+Portuguese Podengo,12.5,25.0,55.0
+Portuguese Podengo Pequeno,13.5,10.0,11.0
+Portuguese Pointer,14.0,21.25,47.0
+Portuguese Water Dog,12.0,21.5,46.75
+Pudelpointer,14.0,24.0,57.5
+Pug,14.0,11.5,16.0
+Puli,12.5,17.0,30.0
+Pumi,12.5,17.25,25.5
+Pyrenean Mastiff,11.5,29.0,180.0
+Pyrenean Shepherd,18.0,16.75,22.5
+Rafeiro do Alentejo,13.0,27.0,104.5
+Rat Terrier,15.0,11.5,17.5
+Redbone Coonhound,13.5,24.5,57.5
+Rhodesian Ridgeback,11.0,26.0,77.5
+Romanian Mioritic Shepherd Dog,13.0,28.0,115.0
+Rottweiler,9.5,25.5,102.5
+Russell Terrier,13.0,11.0,12.0
+Russian Toy,13.0,9.5,4.949999999999999
+Saint Bernard,9.0,29.0,145.0
+Saluki,13.5,25.5,52.5
+Samoyed,13.0,22.25,48.75
+Schapendoes,13.5,18.0,40.5
+Schipperke,13.0,12.0,13.0
+Scottish Deerhound,9.5,31.0,91.25
+Scottish Terrier,12.0,10.0,20.0
+Sealyham Terrier,13.0,10.5,22.25
+Segugio Italiano,12.0,21.0,50.0
+Shetland Sheepdog,13.0,14.5,20.0
+Shiba Inu,14.5,15.5,20.0
+Shih Tzu,14.0,9.75,12.5
+Shikoku,11.0,19.5,45.0
+Siberian Husky,13.0,22.25,47.5
+Silky Terrier,14.0,9.5,9.0
+Skye Terrier,13.0,10.0,35.0
+Sloughi,12.5,27.5,42.5
+Slovakian Wirehaired Pointer,13.5,25.5,57.5
+Slovensky Cuvac,12.0,25.25,82.5
+Slovensky Kopov,12.5,18.0,38.5
+Spanish Mastiff,11.0,31.5,170.0
+Spanish Water Dog,13.0,18.625,40.0
+Spinone Italiano,11.0,25.0,75.0
+Stabyhoun,14.0,20.0,50.0
+Staffordshire Bull Terrier,13.0,15.0,31.0
+Standard Schnauzer,14.5,19.0,40.0
+Sussex Spaniel,14.0,14.0,40.0
+Swedish Lapphund,13.0,18.0,37.5
+Swedish Vallhund,13.5,13.125,27.5
+Taiwan Dog,11.0,18.5,33.0
+Teddy Roosevelt Terrier,15.0,11.5,16.5
+Thai Ridgeback,12.5,22.0,55.0
+Tibetan Mastiff,11.0,27.0,107.5
+Tibetan Spaniel,13.5,10.0,12.0
+Tibetan Terrier,15.5,15.5,24.5
+Tornjak,13.0,25.5,86.0
+Tosa,11.0,22.5,150.0
+Transylvanian Hound,12.0,24.0,71.5
+Treeing Tennessee Brindle,11.0,20.0,40.0
+Treeing Walker Coonhound,12.5,24.5,60.0
+Vizsla,13.0,23.0,53.5
+Volpino Italiano,13.0,11.25,11.5
+Weimaraner,11.5,26.0,72.5
+Welsh Springer Spaniel,13.5,18.5,45.0
+Welsh Terrier,13.5,15.0,21.0
+West Highland White Terrier,14.0,11.0,17.5
+Wetterhoun,13.0,23.0,62.5
+Whippet,13.5,20.5,32.5
+Wirehaired Pointing Griffon,13.5,23.0,51.25
+Wirehaired Vizsla,13.0,24.0,55.0
+Xoloitzcuintli,15.5,22.0,44.0
+Yakutian Laika,11.0,22.0,47.5
+Yorkshire Terrier,13.0,7.5,7.0

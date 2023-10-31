@@ -1,0 +1,247 @@
+{"dog_breed":"Affenpinscher","avg_life_expectancy":13.5,"avg_height":10.25,"avg_weight":8.5}
+{"dog_breed":"Afghan Hound","avg_life_expectancy":15.0,"avg_height":26.0,"avg_weight":55.0}
+{"dog_breed":"Airedale Terrier","avg_life_expectancy":12.5,"avg_height":23.0,"avg_weight":60.0}
+{"dog_breed":"Akita","avg_life_expectancy":12.0,"avg_height":27.0,"avg_weight":100.0}
+{"dog_breed":"Alaskan Klee Kai","avg_life_expectancy":14.5,"avg_height":27.0,"avg_weight":100.0}
+{"dog_breed":"Alaskan Malamute","avg_life_expectancy":12.0,"avg_height":25.0,"avg_weight":80.0}
+{"dog_breed":"American Bulldog","avg_life_expectancy":11.0,"avg_height":23.0,"avg_weight":78.75}
+{"dog_breed":"American English Coonhound","avg_life_expectancy":11.5,"avg_height":25.0,"avg_weight":55.0}
+{"dog_breed":"American Eskimo Dog","avg_life_expectancy":14.0,"avg_height":25.0,"avg_weight":55.0}
+{"dog_breed":"American Foxhound","avg_life_expectancy":12.0,"avg_height":23.5,"avg_weight":65.0}
+{"dog_breed":"American Hairless Terrier","avg_life_expectancy":15.0,"avg_height":14.0,"avg_weight":14.0}
+{"dog_breed":"American Staffordshire Terrier","avg_life_expectancy":14.0,"avg_height":18.5,"avg_weight":55.0}
+{"dog_breed":"American Water Spaniel","avg_life_expectancy":12.0,"avg_height":16.5,"avg_weight":35.0}
+{"dog_breed":"Anatolian Shepherd Dog","avg_life_expectancy":12.0,"avg_height":29.0,"avg_weight":115.0}
+{"dog_breed":"Appenzeller Sennenhund","avg_life_expectancy":13.5,"avg_height":20.5,"avg_weight":59.0}
+{"dog_breed":"Australian Cattle Dog","avg_life_expectancy":14.0,"avg_height":19.0,"avg_weight":42.5}
+{"dog_breed":"Australian Kelpie","avg_life_expectancy":11.5,"avg_height":18.5,"avg_weight":42.5}
+{"dog_breed":"Australian Shepherd","avg_life_expectancy":13.5,"avg_height":21.5,"avg_weight":52.5}
+{"dog_breed":"Australian Terrier","avg_life_expectancy":13.0,"avg_height":10.5,"avg_weight":17.5}
+{"dog_breed":"Azawakh","avg_life_expectancy":13.5,"avg_height":27.0,"avg_weight":44.0}
+{"dog_breed":"Barbado da Terceira","avg_life_expectancy":13.0,"avg_height":21.25,"avg_weight":54.5}
+{"dog_breed":"Barbet","avg_life_expectancy":13.0,"avg_height":21.75,"avg_weight":50.0}
+{"dog_breed":"Basenji","avg_life_expectancy":13.5,"avg_height":17.0,"avg_weight":23.0}
+{"dog_breed":"Basset Fauve de Bretagne","avg_life_expectancy":12.0,"avg_height":14.0,"avg_weight":31.0}
+{"dog_breed":"Basset Hound","avg_life_expectancy":12.5,"avg_height":13.0,"avg_weight":52.5}
+{"dog_breed":"Beagle","avg_life_expectancy":12.5,"avg_height":14.5,"avg_weight":21.25}
+{"dog_breed":"Bearded Collie","avg_life_expectancy":13.0,"avg_height":21.5,"avg_weight":50.0}
+{"dog_breed":"Beauceron","avg_life_expectancy":11.0,"avg_height":26.5,"avg_weight":90.0}
+{"dog_breed":"Bedlington Terrier","avg_life_expectancy":13.5,"avg_height":16.25,"avg_weight":20.0}
+{"dog_breed":"Berger Picard","avg_life_expectancy":12.5,"avg_height":24.5,"avg_weight":60.0}
+{"dog_breed":"Bernese Mountain Dog","avg_life_expectancy":8.5,"avg_height":26.25,"avg_weight":90.0}
+{"dog_breed":"Black Russian Terrier","avg_life_expectancy":11.0,"avg_height":28.5,"avg_weight":105.0}
+{"dog_breed":"Black and Tan Coonhound","avg_life_expectancy":11.0,"avg_height":26.0,"avg_weight":87.5}
+{"dog_breed":"Bloodhound","avg_life_expectancy":11.0,"avg_height":26.0,"avg_weight":95.0}
+{"dog_breed":"Bluetick Coonhound","avg_life_expectancy":11.5,"avg_height":24.5,"avg_weight":61.25}
+{"dog_breed":"Boerboel","avg_life_expectancy":10.0,"avg_height":25.5,"avg_weight":175.0}
+{"dog_breed":"Bohemian Shepherd","avg_life_expectancy":13.5,"avg_height":21.1,"avg_weight":47.75}
+{"dog_breed":"Bolognese","avg_life_expectancy":13.0,"avg_height":11.0,"avg_weight":7.25}
+{"dog_breed":"Border Collie","avg_life_expectancy":13.5,"avg_height":20.5,"avg_weight":42.5}
+{"dog_breed":"Border Terrier","avg_life_expectancy":13.5,"avg_height":13.5,"avg_weight":13.5}
+{"dog_breed":"Borzoi","avg_life_expectancy":11.5,"avg_height":30.25,"avg_weight":81.25}
+{"dog_breed":"Boston Terrier","avg_life_expectancy":12.0,"avg_height":16.0,"avg_weight":18.5}
+{"dog_breed":"Bouvier des Flandres","avg_life_expectancy":11.0,"avg_height":26.0,"avg_weight":90.0}
+{"dog_breed":"Boxer","avg_life_expectancy":11.0,"avg_height":24.0,"avg_weight":65.0}
+{"dog_breed":"Boykin Spaniel","avg_life_expectancy":12.5,"avg_height":16.75,"avg_weight":32.5}
+{"dog_breed":"Bracco Italiano","avg_life_expectancy":12.0,"avg_height":24.0,"avg_weight":72.5}
+{"dog_breed":"Braque Francais Pyrenean","avg_life_expectancy":13.5,"avg_height":20.75,"avg_weight":47.5}
+{"dog_breed":"Braque du Bourbonnais","avg_life_expectancy":11.0,"avg_height":20.75,"avg_weight":44.0}
+{"dog_breed":"Briard","avg_life_expectancy":12.0,"avg_height":25.0,"avg_weight":77.5}
+{"dog_breed":"Brittany","avg_life_expectancy":13.0,"avg_height":19.0,"avg_weight":35.0}
+{"dog_breed":"Broholmer","avg_life_expectancy":9.0,"avg_height":28.5,"avg_weight":120.0}
+{"dog_breed":"Brussels Griffon","avg_life_expectancy":13.5,"avg_height":8.5,"avg_weight":9.0}
+{"dog_breed":"Bull Terrier","avg_life_expectancy":12.5,"avg_height":21.5,"avg_weight":60.0}
+{"dog_breed":"Bulldog","avg_life_expectancy":9.0,"avg_height":14.5,"avg_weight":45.0}
+{"dog_breed":"Bullmastiff","avg_life_expectancy":8.0,"avg_height":26.0,"avg_weight":115.0}
+{"dog_breed":"Cairn Terrier","avg_life_expectancy":14.0,"avg_height":10.0,"avg_weight":13.5}
+{"dog_breed":"Canaan Dog","avg_life_expectancy":13.5,"avg_height":22.0,"avg_weight":45.0}
+{"dog_breed":"Cane Corso","avg_life_expectancy":10.5,"avg_height":26.25,"avg_weight":99.0}
+{"dog_breed":"Carolina Dog","avg_life_expectancy":13.5,"avg_height":18.625,"avg_weight":42.5}
+{"dog_breed":"Caucasian Shepherd Dog","avg_life_expectancy":11.0,"avg_height":26.5,"avg_weight":134.5}
+{"dog_breed":"Cavalier King Charles Spaniel","avg_life_expectancy":13.5,"avg_height":12.5,"avg_weight":15.5}
+{"dog_breed":"Central Asian Shepherd Dog","avg_life_expectancy":13.5,"avg_height":27.0,"avg_weight":127.0}
+{"dog_breed":"Cesky Terrier","avg_life_expectancy":13.5,"avg_height":11.5,"avg_weight":19.0}
+{"dog_breed":"Chesapeake Bay Retriever","avg_life_expectancy":11.5,"avg_height":24.5,"avg_weight":67.5}
+{"dog_breed":"Chihuahua","avg_life_expectancy":15.0,"avg_height":6.5,"avg_weight":5.0}
+{"dog_breed":"Chinook","avg_life_expectancy":13.5,"avg_height":25.0,"avg_weight":65.0}
+{"dog_breed":"Chow Chow","avg_life_expectancy":10.0,"avg_height":18.5,"avg_weight":57.5}
+{"dog_breed":"Clumber Spaniel","avg_life_expectancy":11.0,"avg_height":19.0,"avg_weight":70.0}
+{"dog_breed":"Coton de Tulear","avg_life_expectancy":17.0,"avg_height":10.5,"avg_weight":11.25}
+{"dog_breed":"Croatian Sheepdog","avg_life_expectancy":13.5,"avg_height":18.0,"avg_weight":36.5}
+{"dog_breed":"Curly-Coated Retriever","avg_life_expectancy":11.0,"avg_height":26.0,"avg_weight":77.5}
+{"dog_breed":"Dachshund","avg_life_expectancy":14.0,"avg_height":8.5,"avg_weight":24.0}
+{"dog_breed":"Dalmatian","avg_life_expectancy":12.0,"avg_height":21.5,"avg_weight":57.5}
+{"dog_breed":"Dandie Dinmont Terrier","avg_life_expectancy":13.5,"avg_height":9.5,"avg_weight":21.0}
+{"dog_breed":"Danish-Swedish Farmdog","avg_life_expectancy":12.0,"avg_height":13.5,"avg_weight":17.5}
+{"dog_breed":"Doberman Pinscher","avg_life_expectancy":11.0,"avg_height":27.0,"avg_weight":81.25}
+{"dog_breed":"Dogo Argentino","avg_life_expectancy":12.0,"avg_height":25.5,"avg_weight":90.0}
+{"dog_breed":"Dogue de Bordeaux","avg_life_expectancy":6.5,"avg_height":23.27,"avg_weight":130.0}
+{"dog_breed":"Drever","avg_life_expectancy":15.0,"avg_height":13.5,"avg_weight":37.5}
+{"dog_breed":"Dutch Shepherd","avg_life_expectancy":12.5,"avg_height":23.0,"avg_weight":58.5}
+{"dog_breed":"English Cocker Spaniel","avg_life_expectancy":13.0,"avg_height":16.5,"avg_weight":30.0}
+{"dog_breed":"English Foxhound","avg_life_expectancy":11.5,"avg_height":24.0,"avg_weight":67.5}
+{"dog_breed":"English Setter","avg_life_expectancy":12.0,"avg_height":26.0,"avg_weight":61.25}
+{"dog_breed":"English Springer Spaniel","avg_life_expectancy":13.0,"avg_height":20.0,"avg_weight":45.0}
+{"dog_breed":"Entlebucher Mountain Dog","avg_life_expectancy":12.0,"avg_height":19.0,"avg_weight":52.5}
+{"dog_breed":"Estrela Mountain Dog","avg_life_expectancy":12.0,"avg_height":26.75,"avg_weight":104.5}
+{"dog_breed":"Eurasier","avg_life_expectancy":14.0,"avg_height":21.5,"avg_weight":55.0}
+{"dog_breed":"Field Spaniel","avg_life_expectancy":12.5,"avg_height":18.0,"avg_weight":42.5}
+{"dog_breed":"Finnish Lapphund","avg_life_expectancy":13.5,"avg_height":19.5,"avg_weight":43.0}
+{"dog_breed":"Finnish Spitz","avg_life_expectancy":14.0,"avg_height":18.75,"avg_weight":26.5}
+{"dog_breed":"Flat-Coated Retriever","avg_life_expectancy":9.0,"avg_height":23.75,"avg_weight":65.0}
+{"dog_breed":"French Bulldog","avg_life_expectancy":11.0,"avg_height":12.0,"avg_weight":23.0}
+{"dog_breed":"French Spaniel","avg_life_expectancy":11.0,"avg_height":22.75,"avg_weight":55.0}
+{"dog_breed":"German Longhaired Pointer","avg_life_expectancy":13.0,"avg_height":25.0,"avg_weight":67.5}
+{"dog_breed":"German Pinscher","avg_life_expectancy":13.0,"avg_height":18.5,"avg_weight":35.0}
+{"dog_breed":"German Shepherd Dog","avg_life_expectancy":8.5,"avg_height":25.0,"avg_weight":68.75}
+{"dog_breed":"German Shorthaired Pointer","avg_life_expectancy":11.0,"avg_height":24.0,"avg_weight":57.5}
+{"dog_breed":"German Spitz","avg_life_expectancy":14.0,"avg_height":13.5,"avg_weight":25.0}
+{"dog_breed":"German Wirehaired Pointer","avg_life_expectancy":15.0,"avg_height":25.0,"avg_weight":60.0}
+{"dog_breed":"Giant Schnauzer","avg_life_expectancy":13.5,"avg_height":26.5,"avg_weight":68.75}
+{"dog_breed":"Glen of Imaal Terrier","avg_life_expectancy":12.5,"avg_height":13.25,"avg_weight":36.0}
+{"dog_breed":"Golden Retriever","avg_life_expectancy":11.0,"avg_height":23.5,"avg_weight":65.0}
+{"dog_breed":"Gordon Setter","avg_life_expectancy":12.5,"avg_height":25.5,"avg_weight":62.5}
+{"dog_breed":"Grand Basset Griffon Vend\u00e9en","avg_life_expectancy":14.0,"avg_height":16.75,"avg_weight":42.5}
+{"dog_breed":"Great Dane","avg_life_expectancy":8.5,"avg_height":31.0,"avg_weight":141.25}
+{"dog_breed":"Great Pyrenees","avg_life_expectancy":11.0,"avg_height":29.5,"avg_weight":100.0}
+{"dog_breed":"Greater Swiss Mountain Dog","avg_life_expectancy":9.5,"avg_height":27.0,"avg_weight":112.5}
+{"dog_breed":"Greyhound","avg_life_expectancy":11.5,"avg_height":29.0,"avg_weight":65.0}
+{"dog_breed":"Harrier","avg_life_expectancy":13.5,"avg_height":20.0,"avg_weight":52.5}
+{"dog_breed":"Havanese","avg_life_expectancy":15.0,"avg_height":10.0,"avg_weight":10.0}
+{"dog_breed":"Hokkaido","avg_life_expectancy":13.5,"avg_height":19.0,"avg_weight":55.0}
+{"dog_breed":"Hovawart","avg_life_expectancy":12.0,"avg_height":25.5,"avg_weight":77.5}
+{"dog_breed":"Ibizan Hound","avg_life_expectancy":12.5,"avg_height":25.5,"avg_weight":47.5}
+{"dog_breed":"Icelandic Sheepdog","avg_life_expectancy":13.0,"avg_height":18.0,"avg_weight":27.5}
+{"dog_breed":"Irish Red And White Setter","avg_life_expectancy":13.0,"avg_height":25.25,"avg_weight":46.75}
+{"dog_breed":"Irish Setter","avg_life_expectancy":13.5,"avg_height":27.0,"avg_weight":65.0}
+{"dog_breed":"Irish Terrier","avg_life_expectancy":14.0,"avg_height":18.0,"avg_weight":26.0}
+{"dog_breed":"Irish Water Spaniel","avg_life_expectancy":12.5,"avg_height":23.0,"avg_weight":56.5}
+{"dog_breed":"Irish Wolfhound","avg_life_expectancy":7.0,"avg_height":33.0,"avg_weight":112.5}
+{"dog_breed":"Italian Greyhound","avg_life_expectancy":14.5,"avg_height":14.0,"avg_weight":10.5}
+{"dog_breed":"Jagdterrier","avg_life_expectancy":11.0,"avg_height":14.5,"avg_weight":19.5}
+{"dog_breed":"Japanese Akitainu","avg_life_expectancy":13.5,"avg_height":26.25,"avg_weight":65.0}
+{"dog_breed":"Japanese Chin","avg_life_expectancy":11.0,"avg_height":9.5,"avg_weight":9.0}
+{"dog_breed":"Japanese Spitz","avg_life_expectancy":13.0,"avg_height":13.5,"avg_weight":17.5}
+{"dog_breed":"Japanese Terrier","avg_life_expectancy":13.5,"avg_height":12.0,"avg_weight":7.5}
+{"dog_breed":"Jindo","avg_life_expectancy":14.0,"avg_height":20.0,"avg_weight":40.0}
+{"dog_breed":"Kai Ken","avg_life_expectancy":13.5,"avg_height":17.5,"avg_weight":30.0}
+{"dog_breed":"Karelian Bear Dog","avg_life_expectancy":12.0,"avg_height":21.25,"avg_weight":46.5}
+{"dog_breed":"Keeshond","avg_life_expectancy":13.5,"avg_height":18.0,"avg_weight":40.0}
+{"dog_breed":"Kerry Blue Terrier","avg_life_expectancy":13.5,"avg_height":18.75,"avg_weight":36.5}
+{"dog_breed":"Kishu Ken","avg_life_expectancy":13.5,"avg_height":19.5,"avg_weight":45.0}
+{"dog_breed":"Komondor","avg_life_expectancy":11.0,"avg_height":27.5,"avg_weight":109.5}
+{"dog_breed":"Kuvasz","avg_life_expectancy":11.0,"avg_height":29.0,"avg_weight":93.75}
+{"dog_breed":"Labrador Retriever","avg_life_expectancy":11.0,"avg_height":23.5,"avg_weight":67.5}
+{"dog_breed":"Lagotto Romagnolo","avg_life_expectancy":16.0,"avg_height":18.0,"avg_weight":29.625}
+{"dog_breed":"Lakeland Terrier","avg_life_expectancy":13.5,"avg_height":14.75,"avg_weight":16.5}
+{"dog_breed":"Lancashire Heeler","avg_life_expectancy":13.5,"avg_height":11.0,"avg_weight":13.0}
+{"dog_breed":"Lapponian Herder","avg_life_expectancy":12.0,"avg_height":19.0,"avg_weight":70.0}
+{"dog_breed":"Leonberger","avg_life_expectancy":7.0,"avg_height":29.75,"avg_weight":127.5}
+{"dog_breed":"Lhasa Apso","avg_life_expectancy":13.5,"avg_height":10.5,"avg_weight":15.0}
+{"dog_breed":"L\u00f6wchen","avg_life_expectancy":14.0,"avg_height":13.0,"avg_weight":15.0}
+{"dog_breed":"Maltese","avg_life_expectancy":13.5,"avg_height":8.0,"avg_weight":7.7}
+{"dog_breed":"Manchester Terrier (Standard)","avg_life_expectancy":16.0,"avg_height":15.5,"avg_weight":17.0}
+{"dog_breed":"Manchester Terrier (Toy)","avg_life_expectancy":16.0,"avg_height":11.0,"avg_weight":10.0}
+{"dog_breed":"Miniature American Shepherd","avg_life_expectancy":12.5,"avg_height":16.0,"avg_weight":30.0}
+{"dog_breed":"Miniature Bull Terrier","avg_life_expectancy":12.0,"avg_height":12.0,"avg_weight":23.0}
+{"dog_breed":"Miniature Pinscher","avg_life_expectancy":14.0,"avg_height":11.25,"avg_weight":9.0}
+{"dog_breed":"Miniature Schnauzer","avg_life_expectancy":13.5,"avg_height":13.0,"avg_weight":15.5}
+{"dog_breed":"Mountain Cur","avg_life_expectancy":11.5,"avg_height":21.0,"avg_weight":45.0}
+{"dog_breed":"Mudi","avg_life_expectancy":13.0,"avg_height":16.75,"avg_weight":23.5}
+{"dog_breed":"Neapolitan Mastiff","avg_life_expectancy":8.0,"avg_height":28.5,"avg_weight":130.0}
+{"dog_breed":"Nederlandse Kooikerhondje","avg_life_expectancy":13.5,"avg_height":25.5,"avg_weight":25.0}
+{"dog_breed":"Newfoundland","avg_life_expectancy":9.5,"avg_height":28.0,"avg_weight":125.0}
+{"dog_breed":"Norfolk Terrier","avg_life_expectancy":14.0,"avg_height":9.5,"avg_weight":11.5}
+{"dog_breed":"Norrbottenspets","avg_life_expectancy":15.5,"avg_height":17.25,"avg_weight":25.0}
+{"dog_breed":"Norwegian Buhund","avg_life_expectancy":13.5,"avg_height":17.75,"avg_weight":33.0}
+{"dog_breed":"Norwegian Elkhound","avg_life_expectancy":13.5,"avg_height":20.5,"avg_weight":51.5}
+{"dog_breed":"Norwegian Lundehund","avg_life_expectancy":13.5,"avg_height":14.0,"avg_weight":25.0}
+{"dog_breed":"Norwich Terrier","avg_life_expectancy":13.5,"avg_height":10.0,"avg_weight":12.0}
+{"dog_breed":"Nova Scotia Duck Tolling Retriever","avg_life_expectancy":13.0,"avg_height":19.5,"avg_weight":42.5}
+{"dog_breed":"Old English Sheepdog","avg_life_expectancy":11.0,"avg_height":22.0,"avg_weight":80.0}
+{"dog_breed":"Otterhound","avg_life_expectancy":11.5,"avg_height":27.0,"avg_weight":97.5}
+{"dog_breed":"Papillon","avg_life_expectancy":15.0,"avg_height":9.5,"avg_weight":7.5}
+{"dog_breed":"Parson Russell Terrier","avg_life_expectancy":14.0,"avg_height":14.0,"avg_weight":15.0}
+{"dog_breed":"Pekingese","avg_life_expectancy":13.0,"avg_height":7.5,"avg_weight":10.5}
+{"dog_breed":"Perro de Presa Canario","avg_life_expectancy":10.0,"avg_height":24.0,"avg_weight":97.0}
+{"dog_breed":"Peruvian Inca Orchid","avg_life_expectancy":13.0,"avg_height":23.0,"avg_weight":40.5}
+{"dog_breed":"Petit Basset Griffon Vend\u00e9en","avg_life_expectancy":15.0,"avg_height":14.0,"avg_weight":32.5}
+{"dog_breed":"Pharaoh Hound","avg_life_expectancy":13.0,"avg_height":24.0,"avg_weight":50.0}
+{"dog_breed":"Plott Hound","avg_life_expectancy":13.0,"avg_height":22.5,"avg_weight":51.25}
+{"dog_breed":"Polish Lowland Sheepdog","avg_life_expectancy":13.0,"avg_height":19.0,"avg_weight":40.0}
+{"dog_breed":"Pomeranian","avg_life_expectancy":14.0,"avg_height":6.5,"avg_weight":5.0}
+{"dog_breed":"Poodle (Miniature)","avg_life_expectancy":14.0,"avg_height":12.5,"avg_weight":12.5}
+{"dog_breed":"Poodle (Standard)","avg_life_expectancy":14.0,"avg_height":16.0,"avg_weight":55.0}
+{"dog_breed":"Poodle (Toy)","avg_life_expectancy":14.0,"avg_height":9.0,"avg_weight":5.0}
+{"dog_breed":"Porcelaine","avg_life_expectancy":12.5,"avg_height":22.5,"avg_weight":58.5}
+{"dog_breed":"Portuguese Podengo","avg_life_expectancy":12.5,"avg_height":25.0,"avg_weight":55.0}
+{"dog_breed":"Portuguese Podengo Pequeno","avg_life_expectancy":13.5,"avg_height":10.0,"avg_weight":11.0}
+{"dog_breed":"Portuguese Pointer","avg_life_expectancy":14.0,"avg_height":21.25,"avg_weight":47.0}
+{"dog_breed":"Portuguese Water Dog","avg_life_expectancy":12.0,"avg_height":21.5,"avg_weight":46.75}
+{"dog_breed":"Pudelpointer","avg_life_expectancy":14.0,"avg_height":24.0,"avg_weight":57.5}
+{"dog_breed":"Pug","avg_life_expectancy":14.0,"avg_height":11.5,"avg_weight":16.0}
+{"dog_breed":"Puli","avg_life_expectancy":12.5,"avg_height":17.0,"avg_weight":30.0}
+{"dog_breed":"Pumi","avg_life_expectancy":12.5,"avg_height":17.25,"avg_weight":25.5}
+{"dog_breed":"Pyrenean Mastiff","avg_life_expectancy":11.5,"avg_height":29.0,"avg_weight":180.0}
+{"dog_breed":"Pyrenean Shepherd","avg_life_expectancy":18.0,"avg_height":16.75,"avg_weight":22.5}
+{"dog_breed":"Rafeiro do Alentejo","avg_life_expectancy":13.0,"avg_height":27.0,"avg_weight":104.5}
+{"dog_breed":"Rat Terrier","avg_life_expectancy":15.0,"avg_height":11.5,"avg_weight":17.5}
+{"dog_breed":"Redbone Coonhound","avg_life_expectancy":13.5,"avg_height":24.5,"avg_weight":57.5}
+{"dog_breed":"Rhodesian Ridgeback","avg_life_expectancy":11.0,"avg_height":26.0,"avg_weight":77.5}
+{"dog_breed":"Romanian Mioritic Shepherd Dog","avg_life_expectancy":13.0,"avg_height":28.0,"avg_weight":115.0}
+{"dog_breed":"Rottweiler","avg_life_expectancy":9.5,"avg_height":25.5,"avg_weight":102.5}
+{"dog_breed":"Russell Terrier","avg_life_expectancy":13.0,"avg_height":11.0,"avg_weight":12.0}
+{"dog_breed":"Russian Toy","avg_life_expectancy":13.0,"avg_height":9.5,"avg_weight":4.95}
+{"dog_breed":"Saint Bernard","avg_life_expectancy":9.0,"avg_height":29.0,"avg_weight":145.0}
+{"dog_breed":"Saluki","avg_life_expectancy":13.5,"avg_height":25.5,"avg_weight":52.5}
+{"dog_breed":"Samoyed","avg_life_expectancy":13.0,"avg_height":22.25,"avg_weight":48.75}
+{"dog_breed":"Schapendoes","avg_life_expectancy":13.5,"avg_height":18.0,"avg_weight":40.5}
+{"dog_breed":"Schipperke","avg_life_expectancy":13.0,"avg_height":12.0,"avg_weight":13.0}
+{"dog_breed":"Scottish Deerhound","avg_life_expectancy":9.5,"avg_height":31.0,"avg_weight":91.25}
+{"dog_breed":"Scottish Terrier","avg_life_expectancy":12.0,"avg_height":10.0,"avg_weight":20.0}
+{"dog_breed":"Sealyham Terrier","avg_life_expectancy":13.0,"avg_height":10.5,"avg_weight":22.25}
+{"dog_breed":"Segugio Italiano","avg_life_expectancy":12.0,"avg_height":21.0,"avg_weight":50.0}
+{"dog_breed":"Shetland Sheepdog","avg_life_expectancy":13.0,"avg_height":14.5,"avg_weight":20.0}
+{"dog_breed":"Shiba Inu","avg_life_expectancy":14.5,"avg_height":15.5,"avg_weight":20.0}
+{"dog_breed":"Shih Tzu","avg_life_expectancy":14.0,"avg_height":9.75,"avg_weight":12.5}
+{"dog_breed":"Shikoku","avg_life_expectancy":11.0,"avg_height":19.5,"avg_weight":45.0}
+{"dog_breed":"Siberian Husky","avg_life_expectancy":13.0,"avg_height":22.25,"avg_weight":47.5}
+{"dog_breed":"Silky Terrier","avg_life_expectancy":14.0,"avg_height":9.5,"avg_weight":9.0}
+{"dog_breed":"Skye Terrier","avg_life_expectancy":13.0,"avg_height":10.0,"avg_weight":35.0}
+{"dog_breed":"Sloughi","avg_life_expectancy":12.5,"avg_height":27.5,"avg_weight":42.5}
+{"dog_breed":"Slovakian Wirehaired Pointer","avg_life_expectancy":13.5,"avg_height":25.5,"avg_weight":57.5}
+{"dog_breed":"Slovensky Cuvac","avg_life_expectancy":12.0,"avg_height":25.25,"avg_weight":82.5}
+{"dog_breed":"Slovensky Kopov","avg_life_expectancy":12.5,"avg_height":18.0,"avg_weight":38.5}
+{"dog_breed":"Spanish Mastiff","avg_life_expectancy":11.0,"avg_height":31.5,"avg_weight":170.0}
+{"dog_breed":"Spanish Water Dog","avg_life_expectancy":13.0,"avg_height":18.625,"avg_weight":40.0}
+{"dog_breed":"Spinone Italiano","avg_life_expectancy":11.0,"avg_height":25.0,"avg_weight":75.0}
+{"dog_breed":"Stabyhoun","avg_life_expectancy":14.0,"avg_height":20.0,"avg_weight":50.0}
+{"dog_breed":"Staffordshire Bull Terrier","avg_life_expectancy":13.0,"avg_height":15.0,"avg_weight":31.0}
+{"dog_breed":"Standard Schnauzer","avg_life_expectancy":14.5,"avg_height":19.0,"avg_weight":40.0}
+{"dog_breed":"Sussex Spaniel","avg_life_expectancy":14.0,"avg_height":14.0,"avg_weight":40.0}
+{"dog_breed":"Swedish Lapphund","avg_life_expectancy":13.0,"avg_height":18.0,"avg_weight":37.5}
+{"dog_breed":"Swedish Vallhund","avg_life_expectancy":13.5,"avg_height":13.125,"avg_weight":27.5}
+{"dog_breed":"Taiwan Dog","avg_life_expectancy":11.0,"avg_height":18.5,"avg_weight":33.0}
+{"dog_breed":"Teddy Roosevelt Terrier","avg_life_expectancy":15.0,"avg_height":11.5,"avg_weight":16.5}
+{"dog_breed":"Thai Ridgeback","avg_life_expectancy":12.5,"avg_height":22.0,"avg_weight":55.0}
+{"dog_breed":"Tibetan Mastiff","avg_life_expectancy":11.0,"avg_height":27.0,"avg_weight":107.5}
+{"dog_breed":"Tibetan Spaniel","avg_life_expectancy":13.5,"avg_height":10.0,"avg_weight":12.0}
+{"dog_breed":"Tibetan Terrier","avg_life_expectancy":15.5,"avg_height":15.5,"avg_weight":24.5}
+{"dog_breed":"Tornjak","avg_life_expectancy":13.0,"avg_height":25.5,"avg_weight":86.0}
+{"dog_breed":"Tosa","avg_life_expectancy":11.0,"avg_height":22.5,"avg_weight":150.0}
+{"dog_breed":"Transylvanian Hound","avg_life_expectancy":12.0,"avg_height":24.0,"avg_weight":71.5}
+{"dog_breed":"Treeing Tennessee Brindle","avg_life_expectancy":11.0,"avg_height":20.0,"avg_weight":40.0}
+{"dog_breed":"Treeing Walker Coonhound","avg_life_expectancy":12.5,"avg_height":24.5,"avg_weight":60.0}
+{"dog_breed":"Vizsla","avg_life_expectancy":13.0,"avg_height":23.0,"avg_weight":53.5}
+{"dog_breed":"Volpino Italiano","avg_life_expectancy":13.0,"avg_height":11.25,"avg_weight":11.5}
+{"dog_breed":"Weimaraner","avg_life_expectancy":11.5,"avg_height":26.0,"avg_weight":72.5}
+{"dog_breed":"Welsh Springer Spaniel","avg_life_expectancy":13.5,"avg_height":18.5,"avg_weight":45.0}
+{"dog_breed":"Welsh Terrier","avg_life_expectancy":13.5,"avg_height":15.0,"avg_weight":21.0}
+{"dog_breed":"West Highland White Terrier","avg_life_expectancy":14.0,"avg_height":11.0,"avg_weight":17.5}
+{"dog_breed":"Wetterhoun","avg_life_expectancy":13.0,"avg_height":23.0,"avg_weight":62.5}
+{"dog_breed":"Whippet","avg_life_expectancy":13.5,"avg_height":20.5,"avg_weight":32.5}
+{"dog_breed":"Wirehaired Pointing Griffon","avg_life_expectancy":13.5,"avg_height":23.0,"avg_weight":51.25}
+{"dog_breed":"Wirehaired Vizsla","avg_life_expectancy":13.0,"avg_height":24.0,"avg_weight":55.0}
+{"dog_breed":"Xoloitzcuintli","avg_life_expectancy":15.5,"avg_height":22.0,"avg_weight":44.0}
+{"dog_breed":"Yakutian Laika","avg_life_expectancy":11.0,"avg_height":22.0,"avg_weight":47.5}
+{"dog_breed":"Yorkshire Terrier","avg_life_expectancy":13.0,"avg_height":7.5,"avg_weight":7.0}
