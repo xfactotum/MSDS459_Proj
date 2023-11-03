@@ -23,6 +23,7 @@ def breedLoader():
                 life_expectancy := <decimal>item['life_expectancy'],
                 good_with_children := <int32>item['good_with_children'],
                 good_with_other_dogs := <int32>item['good_with_other_dogs'],
+                good_with_strangers := <int32>item['good_with_strangers'],
                 shedding := <int32>item['shedding'],
                 grooming := <int32>item['grooming'],
                 drooling := <int32>item['drooling'],
@@ -91,7 +92,7 @@ def locLoader():
     """, data=jsonLocations)
 
 
-def imageLoad():
+def imageLoader():
     # df_image = pd.read_json("web_scrapers/images.json")
     # df_image.to_json("data_files/imageToLoad.json", orient='records')
     with open("data_files/imageToLoad.json", "r") as f:
@@ -112,7 +113,31 @@ def imageLoad():
         );
     """, data=jsonImages)
 
+
+def groupLoader():
+    # df_group = pd.read_json("web_scrapers/akc_groups.json")
+    # df_group.to_json("data_files/groupToLoad.json", orient='records')
+    with open("data_files/groupToLoad.json", "r") as f:
+        jsonGroup = json.load(f)
+        jsonGroups = json.dumps(jsonGroup)
+
+    client.query("""
+        with
+            raw_data :=  <json>$data,
+        for item in json_array_unpack(raw_data) union (
+            with breeds := (
+                select Breed filter .name in array_unpack(<array<str>>item['breeds_list'])
+            )
+            insert Groups { 
+                breeds_list := breeds,
+                group_name := <str>item['group_name'],
+                group_description := <str>item['group_description']
+            }
+        );
+    """, data=jsonGroups)
+
 breedLoader()
 reviewLoader()
 locLoader()
-imageLoad()
+imageLoader()
+groupLoader()
