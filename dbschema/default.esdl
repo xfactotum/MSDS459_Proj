@@ -26,7 +26,7 @@ module default {
     };
 
     type Reviews {
-        link BreedFrom -> Breed {
+        link BreedReview -> Breed {
             property name -> str;
         };
         property review -> str; #reviews extraction
@@ -37,13 +37,13 @@ module default {
         link BreedFrom -> Breed {
             property name -> str;
         };
-        property City -> str; #dogtime extraction
-        property State -> str; #dogtime extraction
-        property Country -> str; #dogtime extraction
+        property city -> str; #dogtime extraction
+        property state -> str; #dogtime extraction
+        property country -> str; #dogtime extraction
     }
 
     type Images {
-        link BreedFrom -> Breed {
+        link BreedImage -> Breed {
             property name -> str;
         };
         property image_link -> str; #api extraction
