@@ -1,5 +1,11 @@
 import pandas as pd
 from sentence_transformers import SentenceTransformer
+from transformers import pipeline
+from sentence_transformers import SentenceTransformer
+
+# Load model from HuggingFace Hub
+tokenizer = AutoTokenizer.from_pretrained("dslim/bert-base-NER")
+model = AutoModelForTokenClassification.from_pretrained("dslim/bert-base-NER")
 
 
 def breed():
