@@ -1,44 +1,33 @@
 package main
 
 import (
-	"context"
-	"fmt"
-	"log"
-	"os"
-
-	huggingface "github.com/hupe1980/go-huggingface"
+	"net/http"
+	"time"
 )
 
+
 func main() {
-	ic := huggingface.NewInferenceClient(os.Getenv("HUGGINGFACEHUB_API_TOKEN"))
+	// handle static assets
+	mux := http.NewServeMux()
+	files := http.FileServer(http.Dir("public"))
 
-	res1, err1 := ic.FeatureExtraction(context.Background(), &huggingface.FeatureExtractionRequest{
-		Inputs: []string{"Hello World"},
-		Options: huggingface.Options{
-			WaitForModel: huggingface.PTR(true),
-		},
-	})
-	if err1 != nil {
-		log.Fatal(err1)
+	//
+	// all route patterns matched here
+	// route handler functions defined in other files
+	//
+
+	// defined in route_auth.go
+	mux.Handle("/", files)
+  
+	mux.HandleFunc("/recommendBreed", recommendBreed)
+  
+	// starting up the server
+	server := &http.Server{
+		Addr:           "127.0.0.1:8989",
+		Handler:        mux,
+		ReadTimeout:    time.Duration(10 * int64(time.Second)),
+		WriteTimeout:   time.Duration(600 * int64(time.Second)),
+		MaxHeaderBytes: 1 << 20,
 	}
-
-	fmt.Println("FeatureExtraction:")
-	fmt.Println(res1[0])
-	fmt.Println()
-
-	res2, err2 := ic.FeatureExtractionWithAutomaticReduction(context.Background(), &huggingface.FeatureExtractionRequest{
-		Inputs: []string{"Hello World"},
-		Model:  "sentence-transformers/all-mpnet-base-v2",
-		// Model:  "intfloat/e5-small-v2",
-		Options: huggingface.Options{
-			WaitForModel: huggingface.PTR(true),
-		},
-	})
-	if err2 != nil {
-		log.Fatal(err2)
-	}
-
-	fmt.Println("FeatureExtractionWithAutomaticReduction:")
-	fmt.Println(res2[0])
-	fmt.Println()
+	server.ListenAndServe()
 }
