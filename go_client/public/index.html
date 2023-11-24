@@ -482,9 +482,9 @@
        * slider
        */
       {
-        id: 'playful',
+        id: 'playfulness',
         label: {
-          en: 'Playful',
+          en: 'Playfulness',
           fr: 'Espiègle',
           es: 'Juguetón'
         },
@@ -500,7 +500,259 @@
           min: 0,
           max: 5,
           ticks: [0, 2.5, 5],
-          ticks_labels: ['None', 'Mild', 'Very'],
+          ticks_labels: ['Not Playful', ' ', 'Very Playful'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'trainability',
+        label: {
+          en: 'Trainability',
+          fr: 'Capacite dentrainement',
+          es: 'Capacidad de Entrenamiento'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Easy to Train', ' ', 'Requires More Training'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'shedding',
+        label: {
+          en: 'Shedding',
+          fr: 'Perte',
+          es: 'Derramamiento'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Little/No Shedding', ' ', 'Shedding is OK with me'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'protectiveness',
+        label: {
+          en: 'Protectiveness',
+          fr: 'Protection',
+          es: 'Proteccion'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Not Protective', ' ', 'Very Protective'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'grooming',
+        label: {
+          en: 'Grooming',
+          fr: 'Toilettage',
+          es: 'Aseo'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Minimal Grooming', ' ', 'Requires Regular Grooming'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'good_with_strangers',
+        label: {
+          en: 'Good With Strangers',
+          fr: 'Bon Avec Les Inconnus',
+          es: 'Buena Con Extranas'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Not Important', ' ', 'Must be Good with Strangers'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'good_with_other_dogs',
+        label: {
+          en: 'Good with Other Dogs',
+          fr: 'Bien Avec Les Autres Chiens',
+          es: 'Buena Con Otros Perros'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Not Important', ' ', 'Must be Good with Other Dogs'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'good_with_children',
+        label: {
+          en: 'Good With Children',
+          fr: 'Bien Avec Les Enfants',
+          es: 'Buena Con Los Ninos'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Not Important', ' ', 'Must be Great With Kids'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'energy',
+        label: {
+          en: 'Energy Level',
+          fr: 'Niveau Denergie',
+          es: 'Nivel de Energia'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Low Energy Breed', ' ', 'High Energy Breed'],
+          value: 0
+        },
+        valueSetter: function(rule, value) {
+          var input = rule.$el.find('.rule-value-container input');
+          input.slider('setValue', value);
+          input.val(value);
+        }
+      },
+      {
+        id: 'coat_length',
+        label: {
+          en: 'Coat Length',
+          fr: 'Longueur de manteau',
+          es: 'Longitud de la capa'
+        },
+        icon: 'glyphicon glyphicon-filter',
+        type: 'integer',
+        optgroup: 'quality',
+        validation: {
+          min: 0,
+          max: 5
+        },
+        plugin: 'slider',
+        plugin_config: {
+          min: 0,
+          max: 5,
+          ticks: [0, 2.5, 5],
+          ticks_labels: ['Short Coat', ' ', 'Long Coat'],
           value: 0
         },
         valueSetter: function(rule, value) {
@@ -528,7 +780,7 @@
           min: 0,
           max: 5,
           ticks: [0, 2.5, 5],
-          ticks_labels: ['None', 'Mild', 'Very'],
+          ticks_labels: ['Little/No Barking', ' ', 'Barking OK With Me'],
           value: 0
         },
         valueSetter: function(rule, value) {
@@ -538,7 +790,7 @@
         }
       },
       {
-        id: 'drool',
+        id: 'drooling',
         label: {
           en: 'Drooling',
           fr: 'Baveux',
@@ -556,7 +808,7 @@
           min: 0,
           max: 5,
           ticks: [0, 2.5, 5],
-          ticks_labels: ['None', 'Mild', 'Very'],
+          ticks_labels: ['Little/No Drooling', ' ', 'Drooling OK With Me'],
           value: 0
         },
         valueSetter: function(rule, value) {
@@ -566,9 +818,9 @@
         }
       },
       {
-        id: 'age',
+        id: 'life_expectancy',
         label: {
-          en: 'Life expectancy',
+          en: 'Life Expectancy',
           fr: 'Espérance de vie',
           es: 'Esperanza de vida'
         },
@@ -584,7 +836,7 @@
           min: 6,
           max: 18,
           ticks: [6, 9, 12, 15, 18],
-          ticks_labels: ['6', '9', '12', '15', '18y'],
+          ticks_labels: ['6 years', '9', '12', '15', '18 years'],
           value: 6
         },
         valueSetter: function(rule, value) {
@@ -612,7 +864,7 @@
           min: 4,
           max: 33,
           ticks: [4, 11, 19, 26, 33],
-          ticks_labels: ['4"', '11', '19', '26', '33'],
+          ticks_labels: ['4 inches', '11', '19', '26', '>33 inches'],
           value: 4
         },
         valueSetter: function(rule, value) {
@@ -640,7 +892,7 @@
           min: 5,
           max: 60,
           ticks: [5, 19, 33, 46, 60],
-          ticks_labels: ['5lbs', '19', '33', '46', '60'],
+          ticks_labels: ['5lbs', '19', '33', '46', '>60lbs'],
           value: 5
         },
         valueSetter: function(rule, value) {
