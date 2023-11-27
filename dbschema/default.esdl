@@ -23,6 +23,10 @@ module default {
         property trainability -> int32; #api extraction
         property energy -> int32; #api extraction
         property barking -> int32; #api extraction
+        link originID -> Location {  property id -> uuid; };
+        multi link reviewID -> Reviews { property id -> uuid; };
+        multi link imageID -> Images { property id -> uuid; };
+        multi link groupID -> Groups { property id -> uuid; };
     };
 
     type Reviews {
